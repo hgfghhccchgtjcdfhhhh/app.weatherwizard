@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Check out the app](https://weather-wizard-1wmq.onrender.com)  
+👉 [Check out the app](https://weatherwizard-app.onrender.com)  
 
 ---
 
