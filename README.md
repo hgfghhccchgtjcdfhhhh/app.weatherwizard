@@ -21,3 +21,5 @@
   - Src code uploaded on Github.
 
 ---
+
+**For more information:** visit [Our Documentation](https://weatherwizard-docs.onrender.com)
