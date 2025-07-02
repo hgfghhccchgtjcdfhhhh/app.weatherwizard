@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Check out the app](https://weatherwizard-app.onrender.com)  
+👉 [Check out the app](https://app-weatherwizard.onrender.com)  
 
 ---
 
@@ -22,4 +22,4 @@
 
 ---
 
-**For more information:** visit [Our Documentation](https://weatherwizard-docs.onrender.com)
+**For more information:** visit [Our Documentation Site](https://weatherwizard-docs-419q.onrender.com)
